@@ -1,0 +1,11 @@
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\Micorosft SilverVM 11.0 Technology Preview.csprojAssemblyReference.cache
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\App.g.i.cs
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\App.g.cs
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\MainPage.g.i.cs
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\MainPage.g.cs
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\App.xaml
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\MainPage.xaml
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\App.xbf
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\MainPage.xbf
+C:\Users\aydua\source\repos\Micorosft SilverVM 11.0 Technology Preview\Micorosft SilverVM 11.0 Technology Preview\obj\ARM\Release\XamlSaveStateFile.xml
